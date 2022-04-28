@@ -1,0 +1,141 @@
+{
+    "status": "OK",
+    "data": {
+        "q": "test",
+        "total_count": 280,
+        "start": 0,
+        "spelling_alternatives": {},
+        "items": [
+            {
+                "name": "Test Test Test Test Dataverse",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/testtesttesttest",
+                "identifier": "testtesttesttest",
+                "published_at": "2021-09-04T23:46:05Z"
+            },
+            {
+                "name": "Test Test TEst Dataverse",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/demodemodemo",
+                "identifier": "demodemodemo",
+                "published_at": "2021-09-04T23:39:59Z"
+            },
+            {
+                "name": "test",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/willtest",
+                "identifier": "willtest",
+                "description": "a test",
+                "published_at": "2019-01-23T21:56:42Z"
+            },
+            {
+                "name": "Teste - Dataverse",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/teste202108",
+                "identifier": "teste202108",
+                "published_at": "2021-08-17T15:15:59Z"
+            },
+            {
+                "name": "Testing Dataverse",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/testingDV",
+                "identifier": "testingDV",
+                "description": "This is a description for the Test",
+                "published_at": "2019-07-25T04:18:17Z"
+            },
+            {
+                "name": "test test Dataverse Youssef",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/testYoussef",
+                "identifier": "testYoussef",
+                "published_at": "2020-05-26T23:03:46Z"
+            },
+            {
+                "name": "Minimal test",
+                "type": "dataset",
+                "url": "https://doi.org/10.70122/FK2/GP5K62",
+                "global_id": "doi:10.70122/FK2/GP5K62",
+                "description": "test",
+                "published_at": "2022-03-30T00:34:20Z",
+                "publisher": "A Test Dataverse",
+                "citationHtml": "Myers, Jim, 2022, \"Minimal test\", <a href=\"https://doi.org/10.70122/FK2/GP5K62\" target=\"_blank\">https://doi.org/10.70122/FK2/GP5K62</a>, Demo Dataverse, V1",
+                "identifier_of_dataverse": "atest",
+                "name_of_dataverse": "A Test Dataverse",
+                "citation": "Myers, Jim, 2022, \"Minimal test\", https://doi.org/10.70122/FK2/GP5K62, Demo Dataverse, V1",
+                "storageIdentifier": "s3://10.70122/FK2/GP5K62",
+                "subjects": [
+                    "Computer and Information Science"
+                ],
+                "fileCount": 2,
+                "versionId": 211123,
+                "versionState": "RELEASED",
+                "majorVersion": 1,
+                "minorVersion": 1,
+                "createdAt": "2022-03-30T00:33:41Z",
+                "updatedAt": "2022-03-30T00:37:04Z",
+                "contacts": [
+                    {
+                        "name": "Myers, Jim",
+                        "affiliation": ""
+                    }
+                ],
+                "authors": [
+                    "Myers, Jim"
+                ]
+            },
+            {
+                "name": "testing url changes",
+                "type": "dataset",
+                "url": "https://doi.org/10.70122/FK2/BMNXM3",
+                "global_id": "doi:10.70122/FK2/BMNXM3",
+                "description": "testing urls",
+                "published_at": "2022-03-07T19:20:58Z",
+                "publisher": "Permissions testing ",
+                "citationHtml": "Mika, Katherine, 2022, \"testing url changes\", <a href=\"https://doi.org/10.70122/FK2/BMNXM3\" target=\"_blank\">https://doi.org/10.70122/FK2/BMNXM3</a>, Demo Dataverse, V1",
+                "identifier_of_dataverse": "test_perm",
+                "name_of_dataverse": "Permissions testing ",
+                "citation": "Mika, Katherine, 2022, \"testing url changes\", https://doi.org/10.70122/FK2/BMNXM3, Demo Dataverse, V1",
+                "storageIdentifier": "s3://10.70122/FK2/BMNXM3",
+                "subjects": [
+                    "Astronomy and Astrophysics"
+                ],
+                "fileCount": 0,
+                "versionId": 209751,
+                "versionState": "RELEASED",
+                "majorVersion": 1,
+                "minorVersion": 0,
+                "createdAt": "2022-03-07T19:20:43Z",
+                "updatedAt": "2022-03-07T19:20:58Z",
+                "contacts": [
+                    {
+                        "name": "Mika, Katherine",
+                        "affiliation": "Harvard University"
+                    }
+                ],
+                "publications": [
+                    {}
+                ],
+                "authors": [
+                    "Mika, Katherine"
+                ]
+            },
+            {
+                "name": "Test Dataverse",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/test-restricted-file-request-access",
+                "identifier": "test-restricted-file-request-access",
+                "description": "Test a few things",
+                "published_at": "2022-01-20T02:16:32Z"
+            },
+            {
+                "name": "Testing researcher",
+                "type": "dataverse",
+                "url": "https://demo.dataverse.org/dataverse/tester",
+                "identifier": "tester",
+                "description": "This sentence is to test for changes made to the dataverse",
+                "published_at": "2021-01-08T06:38:21Z"
+            }
+        ],
+        "count_in_response": 10
+    }
+}
